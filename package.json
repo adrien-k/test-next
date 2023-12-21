@@ -8,7 +8,7 @@
     "start": "next start",
     "edgio:dev": "edgio dev",
     "edgio:build": "edgio build",
-    "edgio:deploy": "edgio deploy",
+    "edgio:deploy": "edgio deploy --api-url https://api.edgio-dev.app",
     "format": "prettier '**/*' --write --ignore-unknown"
   },
   "dependencies": {
